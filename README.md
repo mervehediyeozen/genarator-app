@@ -1,1 +1,1 @@
-![projeresmi](genaratorapp.png)
+![projeresmi](generator-app.png)
